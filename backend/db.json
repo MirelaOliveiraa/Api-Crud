@@ -1,19 +1,20 @@
 {
-  "posts": [
+  "chamados": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "responsavel": "Teste",
+      "descricao": "Descrição",
+      "dataCadastro": "2023-04-11T01:51:30.810Z",
+      "dataAceite": "2023-04-11T02:09:49.582Z",
+      "aceite": true
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "responsavel": "Mirela",
+      "descricao": "Oliveira",
+      "dataCadastro": "2023-04-11T01:51:42.293Z",
+      "dataAceite": "",
+      "aceite": false,
+      "id": 2
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
